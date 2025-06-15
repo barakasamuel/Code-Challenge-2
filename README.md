@@ -1,4 +1,6 @@
-#  Event Guest List Manager
+https://barakasamuel.github.io/Code-Challenge-2/
+
+# Event Guest List Manager
 
 The **Event Guest List Manager** is a simple web-based application that allows event organizers to:
 - Add guests to a list
