@@ -1,0 +1,46 @@
+body {
+        background-color: #0a192f;
+        color: #e0e6ed;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    h1 {
+        color: white;
+        text-align: center;
+        margin-top: 30px;
+    }
+    div {
+        background: #112240;
+        border-radius: 10px;
+        max-width: 400px;
+        margin: 40px auto;
+        padding: 30px 25px;
+        box-shadow: 0 4px 24px rgba(10,25,47,0.2);
+    }
+    input, button {
+        padding: 10px;
+        margin: 8px 0;
+        border-radius: 5px;
+        border: none;
+        font-size: 1em;
+    }
+    input[type="text"], input[type="time"] {
+        background: #233554;
+        color: #e0e6ed;
+        width: 70%;
+        margin-right: 10px;
+    }
+    button.btn {
+        background: white;
+        color: #0a192f;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+    button.btn:hover {
+        background: #52e0c4;
+    }
+    ol#listName {
+        margin-top: 20px;
+        color: #e0e6ed;
+    }
